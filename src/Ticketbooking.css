@@ -1,0 +1,16 @@
+
+.ticket__content{
+    justify-content: center;
+    display:flex;
+    align-items: center;
+    width:208vh;
+    height:80vh;
+    text-align: center;
+    background: url("image/1-2-plane-png-pic.png");
+    color: white;
+    font-size: xx-large;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 2000px rgb(0,0,0,0.6);
+}

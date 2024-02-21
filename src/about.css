@@ -1,0 +1,19 @@
+.about{
+    background: url(image/1-2-plane-png-pic.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 500px rgba(8, 8, 8, 0.6);
+    height: 110vh;
+    width: 208vh;
+    
+}
+.about-container{
+    font-size: x-large;
+}
+.about-container> h3{
+    color: orangered;
+}
+.about-container> p{
+    color: rgb(243, 242, 240);
+}

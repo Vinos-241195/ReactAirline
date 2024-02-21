@@ -1,0 +1,44 @@
+.Fetch{
+    background: url("image/1-2-plane-png-pic.png");
+    justify-content: center;
+    display:list-item;
+    text-align: center;
+    width:205vh;
+    height: 80vh;
+    color: white;
+    font-size: xx-large;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 2000px rgb(0,0,0,0.6);
+
+}
+table{
+    padding:10px;
+    text-align: center;
+}
+table,th,td{
+    border: 1px solid black;
+}
+table,th{
+    font-weight:100;
+    text-align: center;
+    font-size: 1em;
+}
+table,td{
+    font-size: 1em;
+    text-align: center;
+    font-weight: 100;
+
+}
+.body{
+    text-align: center;
+    overflow: hidden;
+    display: table;
+}
+.head{
+    text-align: center;
+    overflow: hidden;
+    display: table;
+
+}
